@@ -7,6 +7,7 @@ Strongly interested in reverse engineering, penetration testing, and security.
 Proud father of the following repos:
 
 **🔐 Security**
+- ✍🏻 [**ap_mode.sh**](https://gist.github.com/lorenzodifuccia/7f164dc8b22b7d91af97c859f9619965): simple to use Bash script for Man-in-The-Middle (MitM) environment.
 - ☎️ [**ZyxelAES**](https://github.com/lorenzodifuccia/ZyxelAES): A Burp Suite extension to decrypt & edit Zyxel router configuration portal API traffic.
 - 😈 [**MaliciousChromeExtension**](https://github.com/lorenzodifuccia/MaliciousChromeExtension): A demo Chrome extension for penetration testing.
 - 📹 [**YoutubeProtobuf**](https://github.com/lorenzodifuccia/YoutubeProtobuf): Utilities for working with YouTube mobile app protobufs.
