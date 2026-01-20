@@ -15,6 +15,7 @@ Strongly interested in reverse engineering, penetration testing, and security.
 **IoT**
 - ☎️ [**ZyxelAES**](https://github.com/lorenzodifuccia/ZyxelAES): A Burp Suite extension to decrypt & edit Zyxel router configuration portal API traffic.
 - 💳 [**SLE4442 Manager**](https://github.com/lorenzodifuccia/SLE4442-Manager): A comprehensive tool for reading, writing, and managing SLE4442 smart cards with both GUI (PyQt5) and CLI support.
+- 🚗 [**AutomotiveSecurityWorkshop**](https://github.com/lorenzodifuccia/AutomotiveSecurityWorkshop): A practical, full-stack simulation of a connected vehicle ecosystem designed to teach automotive security vulnerabilities and attack vectors.
 
 **Mobile**
 - ✍🏻 [**ap_mode.sh**](https://gist.github.com/lorenzodifuccia/7f164dc8b22b7d91af97c859f9619965): simple to use Bash script for Man-in-The-Middle (MitM) environment.
